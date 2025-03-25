@@ -1,7 +1,6 @@
 # SmartTrader
 Stock Price Prediction Using LSTM
-The URL to access your app and GitHub link
-https://smart-trader-group-4.streamlit.app 
+The URL to access our app link: https://smart-trader-group-4.streamlit.app 
 
 Setup Instructions: 
 Follow these steps to run the code and view the Streamlit website:
